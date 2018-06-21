@@ -20,9 +20,9 @@ import glob
 import re
 
 
-users_list = ['cdknoc', 'adp']
-default_router_password = 'P1etHh0n!'
-default_enable_password = 'iZemb3dd3D'
+users_list = []
+default_router_password = ''
+default_enable_password = ''
 
 remarks = []
 output_file_name = "Result.xls"
