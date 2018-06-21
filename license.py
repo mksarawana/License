@@ -17,9 +17,9 @@ import netaddr
 from netaddr import *
 import requests
 
-users_list = ['cdknoc', 'adp']
-default_router_password = 'd0hBfarvA!'
-default_enable_password = 'Nab1eMe0w'
+users_list = []
+default_router_password = ''
+default_enable_password = ''
 rvname = ""
 # save_file_path = '/home/sarava/failover/'
 temp_array = []
